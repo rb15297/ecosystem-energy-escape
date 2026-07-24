@@ -1,5 +1,3 @@
-# Ecosystem Energy Escape — Student Site
+# Ecosystem Energy Escape — student site
 
-Self-paced student escape room for classroom use.
-
-Teacher PDFs and answer keys are **not** included here.
+Self-paced Google Site pack for classroom use. Teacher guides and answer keys are not included.
